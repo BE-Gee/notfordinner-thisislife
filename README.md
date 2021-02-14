@@ -2,25 +2,21 @@
 
 ## Your Task
 
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies.
+To build, design, develop a portfolio page feo any and all to look at. This page could potentially bring about job offers, odd requests, stalkers, or great fans. Whatever the end result it has to look, feel, function like a super pro did this.
+There will be a need for active applications to be added. Utilizing flexbox, media queries, and CSS variables, can this set me in front, behind or next to the compitition? Let us find out.
 
-With these points in mind, in this homework you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
-
-**Note:** If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
-
-Let’s take a look at what a user story written from the perspective of a hiring manager might look like. As you might remember from your first homework, we follow the AS AN / I WANT / SO THAT format.
+**Note:**
+As far as development is concerned.... well I have not developed much except a sacarstic sense of humor and an overly motivated drive to learn. The need for placeholders is evident.
 
 ## User Story
 
 ```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+As an employer, I want to employ people with talent are not a drag on morale. They need to have evident skill in all aspects of the companies destination.
 ```
 
 ## Acceptance Criteria
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+As stolen from the people assigning this self improving assignment.
 
 ```
 GIVEN I need to sample a potential employee's previous work
@@ -43,49 +39,3 @@ THEN I am presented with a responsive layout that adapts to my viewport
 The following animation shows the web application's appearance and functionality:
 
 ![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
-
-## Grading Requirements
-
-This homework is graded based on the following criteria:
-
-### Technical Acceptance Criteria: 40%
-
-- Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-- Application deployed at live URL.
-
-- Application loads with no errors.
-
-- Application GitHub URL submitted.
-
-- GitHub repository contains application code.
-
-### Application Quality: 15%
-
-- Application resembles the mock-up functionality provided in the homework instructions.
-
-### Repository Quality: 13%
-
-- Repository has a unique name.
-
-- Repository follows best practices for file structure and naming conventions.
-
-- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-- Repository contains multiple descriptive commit messages.
-
-- Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-- The URL of the deployed application.
-
-- The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
----
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
