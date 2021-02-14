@@ -3,6 +3,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: saturation;
+  color: white;
+  font-size: 20px;
 }
 
 header h1 {
@@ -33,7 +35,7 @@ nav {
   margin-right: auto;
 }
 /* trying to move page around */
-.page-section {
+.page-section p {
   margin: 25px 0;
   padding: 10px 0;
   display: flex;
@@ -42,7 +44,6 @@ nav {
   align-items: stretch;
   justify-content: space-between;
 }
-
 header nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -53,16 +54,16 @@ footer {
   font-size: 20px;
   float: left;
   flex: clear;
-  color: blue;
+  color: white;
 }
 
 section h2 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
-  color: blue;
+  color: white;
 }
-/*
+
 footer hover {
   background-size: 100% 88%;
   color: var(--secondary);
-}*/
+}
