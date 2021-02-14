@@ -26,6 +26,7 @@ h1 {
 }
 
 nav {
+  margin: center;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -89,4 +90,9 @@ footer a:hover {
   font-size: 30px;
   line-height: 2;
   display: inline;
+}
+
+.hero-banner {
+  justify-content: center;
+  text-align: center;
 }
